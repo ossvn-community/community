@@ -1,0 +1,22 @@
+version: 1
+
+risk_level: R0
+
+review:
+  default_level: L1
+
+testing:
+  required_checks:
+    - validate
+    - links
+  manual: false
+
+ai:
+  contributions: welcome
+  disclosure: optional
+
+security:
+  critical_paths:
+    - ".github/workflows/**"
+    - ".ossvn.yml"
+    - "LICENSE*"

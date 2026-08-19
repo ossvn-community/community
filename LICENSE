@@ -1,0 +1,10 @@
+OSSVN COMMUNITY DUAL LICENSE
+
+Unless a file states otherwise, this repository uses two licenses:
+
+- Concepts, guides, documentation, educational content, prose, diagrams and structured community content/data: Creative Commons Attribution 4.0 International (CC BY 4.0).
+- Source code, scripts, workflows, automation and configuration: MIT License.
+
+See `LICENSE-CONTENT` and `LICENSE-CODE` for details.
+
+Third-party material remains under its original license and is not relicensed by this notice.
