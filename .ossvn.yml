@@ -2,14 +2,11 @@ version: 1
 
 risk_level: R0
 
-review:
-  default_level: L1
-
 testing:
   required_checks:
     - validate
     - links
-  manual: false
+  manual: true
 
 ai:
   contributions: welcome

@@ -2,40 +2,27 @@
 
 **Open Source Software Vietnam**
 
-OSSVN muốn làm open-source dễ bắt đầu hơn cho người Việt bằng cách build những public-good project hữu ích và mở cửa cho contribution.
-
-AI-assisted và vibecoding contributions được welcome.
+OSSVN làm open-source dễ bắt đầu hơn cho người Việt bằng các project mở và hướng dẫn contribution ngắn gọn.
 
 ## Projects
 
 ### IT in Plain Vietnamese
 
-Giải thích từng concept IT bằng tiếng Việt đơn giản, ngắn và có nguồn để kiểm tra.
+Giải thích từng concept IT bằng tiếng Việt đơn giản, ngắn và có nguồn đáng tin cậy.
 
-Repo: https://github.com/ossvn-community/it-in-plain-vietnamese
+[Open project](https://github.com/ossvn-community/it-in-plain-vietnamese)
 
 ## Bắt đầu
 
-- Hướng dẫn cho người mới: [START_HERE.md](START_HERE.md).
-- Hướng dẫn Git/GitHub cơ bản: [guides/](guides/).
-- Quy tắc contribution của community repo: [CONTRIBUTING.md](CONTRIBUTING.md).
+- [START_HERE.md](START_HERE.md) - chọn đường đi phù hợp.
+- [guides/first-pr.md](guides/first-pr.md) - tạo Pull Request đầu tiên.
+- [CONTRIBUTING.md](CONTRIBUTING.md) - contribution vào repo này.
 
-Task của mỗi project nằm trong Issues của project đó, không tập trung ở repo này.
-
-## Nguyên tắc
-
-- Contribution nhỏ vẫn có giá trị.
-- AI và vibecoding được welcome.
-- Người gửi PR chịu trách nhiệm về output.
-- Đơn giản không có nghĩa là được phép sai.
-
-> **Low barrier to contribute. High standard to merge.**
-
-Policy chung về AI, review, risk, testing, security và hành vi nằm ở repo `.github` của OSSVN.
+Task của mỗi project nằm trong Issues của project đó.
 
 ## License
 
-- Guides/docs/prose: CC BY 4.0.
+- Guides/prose: CC BY 4.0.
 - Code/scripts/workflows/config: MIT.
 
 Xem `LICENSE-CODE` và `LICENSE-CONTENT`.
